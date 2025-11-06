@@ -1,19 +1,16 @@
-# Hi there, I'm Kit or JARP or a variety of other names.
-
-I'm primarily a fullstack developer and database admin. I also work with C, GML, and Python from time-to-time.
+# Ello there 👋
+## I'm Kit (or JARP/JARPIG), I'm a self-taught developer and database admin @ [Nirmini](https://github.com/Nirmini).
 
 - Pronouns: any/all/they/she
-
-### Key Notes
-
-- Self taught, full stack developer
 - Started coding around **2019**
 
-## Projects I work on
+## Projects I'm involved in
 
-- [[`Nova`](https://github.com/Nirmini/Nova)] - A Discord bot made to make things easy.
-- [`HSRF`] - A Roblox Science Fiction production.
-> Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.
+- [[`Nova`](https://github.com/Nirmini/Nova)] - A multi-purpose Discord bot and platform. 
+- [`NRC`] - A Science-Fiction production on the ROBLOX platform.
+
+
+> *Please note that I tend to get in and out of projects frequently so this may not be entirely accurate.*
 
 ### GitHub Stats
 
