@@ -44,14 +44,12 @@ A person that mostly focuses on game and software development and does art. (Vib
 ### Platforms
 [![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers&perline=14&theme=dark)](#)
 
-<details>
-   <summary>Contact</summary>
-   ## Contact me
-   - [`Discord`](https://discord.com/users/tba)
-   - [`Email`](mailto:west701497@gmail.com)
-   - [`Nirmini Support`](mailto:support@nirmini.dev)
-   - [`Roblox`](https://www.roblox.com/users/798440211)
-</details>
+
+## Contact me
+- [`Discord`](https://discord.com/users/tba)
+- [`Email`](mailto:west701497@gmail.com)
+- [`Nirmini Support`](mailto:support@nirmini.dev)
+- [`Roblox`](https://www.roblox.com/users/798440211)
 
 <details>
   <summary>Links</summary>
