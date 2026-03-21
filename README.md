@@ -1,5 +1,4 @@
 # :wave: Hi there, I'm Kit! :transgender_flag:
-##### (This is a secondary account. If you need anything please see [@thatWest7014](https://github.com/thatWest7014))
 A person that mostly focuses on game and software development and does art. (Vibe-"Coding" is not coding, change my mind.)
 #### 
 - Pronouns: [they/she/any](https://en.pronouns.page/@_simplykit)
@@ -50,6 +49,7 @@ A person that mostly focuses on game and software development and does art. (Vib
 - [`Email`](mailto:west701497@gmail.com)
 - [`Nirmini Support`](mailto:support@nirmini.dev)
 - [`Roblox`](https://www.roblox.com/users/798440211)
+- [`GitHub`](https://github.com/thatwest7014)
 
 <details>
   <summary>Links</summary>
