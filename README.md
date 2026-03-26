@@ -1,7 +1,11 @@
-# :wave: Hi there, I'm Kit! :transgender_flag:
-A person that mostly focuses on game and software development and does art. (Vibe-"Coding" is not coding, change my mind.)
+![Profile Banner](https://raw.githubusercontent.com/thatWest7014/thatWest7014/refs/heads/main/images/wp5915648.jpg)
+---
+# :wave: Hi there, I'm Kit!
+
+I'm a student that generally works in Information Technology (IT) alongside Cybersecurity. In other words, I get to assemble the trains and their tracks and then try to derail them. ([Based on the introduction to "Hacking Google"](https://www.youtube.com/watch?v=przDcQe6n5o)) I also do art and a few other hobbies and projects, including film production, pixel art, and many, many more. My opinion on AI can generally be summed up as "it sucks 99% of the time unless it's locally run." I am also the director/founder of the Nirmini Development group, a software and game development group that was originally [founded on the Roblox platform](https://www.roblox.com/communities/33610529/Nirmini). (Vibe-coding isn't coding, btw, just because coding teaches you things and vibe-coding doesn't.)
+
 #### 
-- Pronouns: [they/she/any](https://en.pronouns.page/@_simplykit)
+- Pronouns: [any/they](https://en.pronouns.page/@_simplykit) :transgender_flag:
 
 ## 📌 Key Notes
 
@@ -15,8 +19,8 @@ A person that mostly focuses on game and software development and does art. (Vib
 #### ⚙️ General Projects
 - 🤖 [`Nova`](https://github.com/Nirmini/Nova) - A multi-purpose Discord bot and moderation platform for communities of all sizes.
    - [`NovaCore`](https://github.com/thatWest7014/NovaCore) - The open-sourced core application layer of Nova that we run the Discord.js instance off of.
-   - [`NovaWorks`] - Nova's Roblox integration and deprecated internal API.
-   - [`NovaAPI`] - Nova's Public and Internal API that users can build with
+   - [`NovaWorks`](https://novaworks.nirmini.dev) - Nova's Roblox integration and deprecated internal API.
+   - [`NovaAPI`](https://platform.nirmini.dev/docs/api/nova) - Nova's Public and Internal API that users can build with
 #### 🎮 Game Development Projects
 - 🏢 [`Nirmini Research Complex`] - A Roblox Science Fiction game developed by Nirmini Development that takes place in 2028.
 - 🔪 [`Untitled Roblox Game`] - A Roblox multiplayer survival game developed by Untitled Roblox Game Group.
@@ -24,8 +28,12 @@ A person that mostly focuses on game and software development and does art. (Vib
 - 🔫 [`Project Vexel`] - A currently delayed Roblox FPS game with PvP and PvE aspects developed by Nirmini Development.
 - 🔧 [`Bot Maker's Toolkit`] - A Windows App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.
 
+## 🖋 Pentests
+### This is a list of various things that I've done security work with, when I remember to update it.
+- [Securly](https://www.securly.com/), Initial report March 23rd, 2026.
+
 ##### 
-> *Please note that I tend to get in and out of projects frequently, so this may not be entirely accurate.*
+> *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
 
 ## 📊 Github Stats
 
@@ -37,26 +45,24 @@ A person that mostly focuses on game and software development and does art. (Vib
 ## Here's some of the things I've worked with over the years:
 
 ### Languages
-[![JS, HTML, CSS, BASH, C, C++, LUA, MD, MySQL, PHP, TS, GO, Kotlin, Python](https://skillicons.dev/icons?i=js,html,css,bash,c,cpp,lua,md,mysql,php,ts,go,kotlin,py&perline=14&theme=dark)](#)
+[![HTML, CSS, BASH, C, C++, C#, LUA, MD, MySQL, PHP, JS, TS, GO, Kotlin, Python](https://skillicons.dev/icons?i=html,css,bash,c,cpp,cs,lua,md,mysql,php,js,ts,go,kotlin,py&perline=15&theme=dark)](#)
 ### Tools
-[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio&perline=14&theme=dark)](#)
+[![Blender, Docker, DotNET, Electron, Express, Git, Adobe Illustrator, Kubernetes, MySQL, NPM, Photoshop, Premiere Pro, React, Roblox Studio, Sentry, Unity, Unreal Engine, Vim, VSCode, Vue, CF Wokers, Gamemaker, Android Studio, Vite, Powershell](https://skillicons.dev/icons?i=blender,docker,dotnet,electron,express,git,ai,kubernetes,mysql,nodejs,npm,ps,pr,react,regex,robloxstudio,sentry,unity,unreal,vim,vscode,vue,workers,gamemakerstudio,androidstudio,vite,powershell&perline=14&theme=dark)](#)
 ### Platforms
-[![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers&perline=14&theme=dark)](#)
-
+[![Azure, Bitbucket, Cloudflare, Codepen, Discord, Discord.js, Firebase, Figma, GCP, GitHub, Gitlab, Linux, Windows, CF Workers, Linux Mint, Arch Linux, Ubuntu, Vercel](https://skillicons.dev/icons?i=azure,bitbucket,cloudflare,codepen,discord,discordjs,firebase,figma,gcp,github,gitlab,linux,windows,workers,mint,arch,ubuntu,vercel&perline=18&theme=dark)](#)
 
 ## Contact me
-- [`Discord`](https://discord.com/users/tba)
-- [`Email`](mailto:west701497@gmail.com)
+- [`Discord`](https://discord.com/users/600464355917692952)
 - [`Nirmini Support`](mailto:support@nirmini.dev)
 - [`Roblox`](https://www.roblox.com/users/798440211)
-- [`GitHub`](https://github.com/thatwest7014)
 
 <details>
   <summary>Links</summary>
 
   - [`Discord`](https://discord.gg/9Y7aZejzUH)  
-  - [`Nova`](https://github.com/Nirmini/Nova)  
+  - [`NovaBot`](https://github.com/Nirmini/NovaBot)  
   - [`GitHub Readme Stats`](https://github.com/stats-organization/github-readme-stats-action)  
-  - [`Skill Icons`](https://skillicons.dev)  
+  - [`Skill Icons`](https://skillicons.dev)
+  - [`Nirmini`](https://nirmini.dev)
 
 </details>
