@@ -65,6 +65,7 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 - [`Discord`](https://discord.com/users/600464355917692952)
 - [`Nirmini Support`](mailto:support@nirmini.dev)
 - [`Roblox`](https://www.roblox.com/users/798440211)
+- [`Nirmini`](https://nirmini.dev/staff/contact?r=katt)
 
 <details>
   <summary>Links</summary>
@@ -74,5 +75,6 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
   - [`GitHub Readme Stats`](https://github.com/stats-organization/github-readme-stats-action)  
   - [`Skill Icons`](https://skillicons.dev)
   - [`Nirmini`](https://nirmini.dev)
+  - [`Staff Profile`](https://nirmini.dev/staff/katt)
 
 </details>
