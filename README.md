@@ -68,6 +68,7 @@ I'm a student who generally works in Information Technology (IT) alongside Cyber
 - [`Nirmini Support`](mailto:support@nirmini.dev)
 - [`Roblox`](https://www.roblox.com/users/798440211)
 - [`Nirmini`](https://nirmini.dev/staff/contact?r=katt)
+- [`Email`](mailto:simplyKit0@proton.me)
 
 <details>
   <summary>Links</summary>
