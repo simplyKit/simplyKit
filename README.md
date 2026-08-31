@@ -1,39 +1,43 @@
 ![Profile Banner](https://raw.githubusercontent.com/simplyKit/simplyKit/refs/heads/main/images/wp5915648.jpg)
 ---
-# :wave: Hi there, I'm KitKatt or Katt!
+# :wave: Hi there, Name's John.
 
-Nirmini Founder, Security Researcher, Game + Software Developer, Furry, Photographer, etc.
+I'm a HS Student who works and studies in IT (Information Technology) and Cybersecurity. I also do game, web, and app development on the side for fun. 
+I love to either make things, then try to break it or take something and see how I can manipulate it. Messing with hardware is also something I like to do for fun.
+Open-Source Contributor, Maintainer, and Advocate, Film Director and Camera Operator, Artist, among other hobbies. 
+My thoughts on vibe coding can be summed up as this: Vibe-coding can be great for people who just want something simple quickly, that being said, it does not replace the need for developers or for learning for more complex problems since that usually leads to absurd amounts of [technical debt](https://en.wikipedia.org/wiki/Technical_debt). Using it for reference is also find since usually, you replace it before it's used by any client or end-user.
 
-I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game/App Development. I mostly work in creation applications and then pentesting them or (borrowing [Google's analogy](https://www.youtube.com/watch?v=przDcQe6n5o)), creating a network of model trains and then finding ways to derail those trains and make it so that other people can't abuse that same flaw. I also do or am involved in some other stuff like pixel art, graphic design, the furry fandom, and film/broadcasting. I also operate the day-to-day operations of Nirmini, an indie tech studio. (Unverified Vibe-coding isn't coding, it doesn't make you think about things like implementations and such which means you probably don't know your application well.)
+I'm also one of the Technical Advisors at [Nirmini Development](https://github.com/Nirmini).
 
 #### 
-- Pronouns: [she/her (and sometimes they)](https://en.pronouns.page/@_simplykit) :transgender_flag:
+- Pronouns: Any/All (I don't have a big perference)
 
 ## 📌 Key Notes
 
-- Self-Taught HTML/CSS, Javascript/Node.js, Lua C++, and C# developer.
+- Self-Taught in C/C#/C++, CommonJS/ModuleJS, HTML, Assembly, and some Fourtran
 - Certified in Web Development, among other things.
-- Started coding around late **2019**.
-- Grateful Founder/Director of [`Nirmini Development`](https://github.com/Nirmini).
+- Started coding around mid-to-late **2019**.
+- Technical Advisor of [`Nirmini Development`](https://github.com/Nirmini).
 
 ## 🛠️ Projects & 🖋 Pentests
 ### These are projects of mine or that I'm involved in.
-#### 🤖 Discord Bot Projects
+#### 🤖 Nirmini Nova
 - [`Nova`](https://github.com/Nirmini/Nova) - A multi-purpose Discord bot and moderation platform for communities of all sizes.
-   - [`NovaCore`](https://github.com/thatWest7014/NovaCore) - The open-sourced core application layer of Nova that we run the Discord.js instance off of.
+   - [`NovaCore`](https://github.com/simplyKatt/NovaCore) - The open-sourced core application layer of Nova that we run the Discord.js instance off of.
    - [`NovaWorks`](https://platform.nirmini.dev/docs/platform/nworks) - Nova's Roblox integration and deprecated internal API.
    - [`NovaAPI`](https://platform.nirmini.dev/docs/api/nova) - Nova's Public and Internal API that users can build with
+
 #### 🎮 Game Development Projects
 - [`Nirmini Research Complex`] - A Roblox Science Fiction game developed by Nirmini Development that takes place in 2028.
-- [`Untitled Roblox Game`] - A Roblox multiplayer survival game developed by Untitled Roblox Game Group.
 - [`Starlight Media Center `] - A Roblox event venue and recording studio for Starlight Media, which is part of Nirmini.
-- [`Bot Maker's Toolkit`] - An App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.
+- ~~[`Bot Maker's Toolkit`] - An App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.~~
 
 #### 📚 Hobby Projects
 - [`LocalMatter`] - A completely self-hosted matter device controller that can be run locally or connected to a Google/Apple home
    - [`AntiMatter`] - The web-based dashboard for the application and home management utility
    - [`AntiGravity`] - The C#-based dashboard for the app and the home utility, plus some exclusive features
-- [`LIFX-Testing`](https://github.com/thatWest7014/LIFX-LAN-Client-Node) - Testing package I made to better manage lights in a way that works and runs locally, and supports all the core features of the app.
+- [`LIFX-Testing`](https://github.com/simplyKatt/LIFX-LAN-Client-Node) - Testing package I made to better manage lights in a way that works and runs locally, and supports all the core features of the app.
+- [Agenda For Canvas](https://github.com/simplyKatt/Agenda-for-Canvas) - A Chrome/Firefox Extension similar to Tasks For Canvas and others.
 
 #### 🛠️ General Projects
 - [`Nirmini.dev`](https://nirmini.dev) - Website for my development group, Nirmini, or more formally, Nirmini Development.
@@ -42,10 +46,7 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
 - [`BetterYTPlaylists`] - A project to create a better YT Playlist widget within WordPress, created in PHP.
 
 #### 🖊️ Pentests (Completed and planned/in-progress)
-- Securly - N/A
-- Canvas LMS - Planned
-- Google - Planned
-- Valve - Planned
+- Securly
 
 ##### 
 > *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
@@ -72,10 +73,9 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
 <details>
    <summary>Contact Methods</summary>
 
-   - [`Discord`](https://discord.com/users/600464355917692952)
-   - [`Email`](mailto:west701497@gmail.com)
+   - [`Discord (Prefered)`](https://discord.com/users/600464355917692952)
+   - [`Email (Prefered)`](mailto:west701497@gmail.com)
    - [`Nirmini Support`](mailto:support@nirmini.dev)
-   - [`Roblox`](https://www.roblox.com/users/798440211)
    - [`Email(alt)`](mailto:simplykit0@proton.me)
 
 </details>
@@ -86,7 +86,8 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
   - [`Discord`](https://discord.gg/9Y7aZejzUH)  
   - [`NovaBot`](https://github.com/Nirmini/NovaBot)  
   - [`GitHub Readme Stats`](https://github.com/stats-organization/github-readme-stats-action)  
-  - [`Skill Icons`](https://skillicons.dev)  
+  - [`Skill Icons`](https://skillicons.dev)
+  - [`Roblox`](https://www.roblox.com/users/798440211) 
 
 </details>
 
